@@ -1,0 +1,27 @@
+$ bundle exec rspec --init
+
+Rspec + Capybara Setup
+Capybara Helpers: to navigate the pages
+Factory Bot: Generate testing data(gem 'factory_bot')
+
+Rspec + Capybara Setup:
+ruby: 3.0.0
+rails: 5.2.3
+
+$rails new i-rock -T 
+
+$bin/rails g rspec:install || rails generate rspec:install
+$bundle exec spring binstub --all
+
+$rails g simple_form:install --bootstrap
+$rails g model achievement title description:text privacy:integer featured:boolean cover_image   
+$rails db:drop  db:create db:migrate 
+
+https://stevepolito.design/blog/configure-rspec-and-capybara-for-ruby-on-rails/
+
+Ravi Saxsena:
+  kronos noida
+  Tec: L1( Cloud engineer )
+  Btech(CS)(MDU, rothak, 2018)
+
+

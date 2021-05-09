@@ -1,0 +1,3 @@
+[submodule "rspec-i-rock"]
+	path = rspec-i-rock
+	url = git@github.com:vijayshankar037/rspec-i-rock.git
